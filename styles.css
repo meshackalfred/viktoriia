@@ -1,0 +1,68 @@
+body{
+
+    font-family: 'Montserrat';
+}
+h1{
+  font-size: 60px;
+  text-decoration: underline;
+
+}
+p{
+  font-size: 1.1rem;
+}
+.cool{
+  color: white;
+}
+#title {
+  background-color: #511845;
+  color:#fff;
+}
+#section{
+  text-align: center;
+
+
+}
+#aboutme{
+  text-align: center;
+
+}
+#footer{
+text-align: center;
+  padding: 3% 13% 3%;
+  background-color: #511845;
+}
+
+.container-fluid
+{
+  padding: 3% 13% 3%;
+}
+.navbar{
+  /* padding:0 0 4.5rem; */
+}
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.2rem;
+}
+.nav-link{
+  font-family: "Montserrat-light"
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+
+}
+.about{
+  padding: 3% 15% 7%;
+  background-color: #bce6eb;
+}
+.arc{
+padding: 3% 15% 7%;
+}
+.contact{
+padding: 3% 15% 7%;
+}
+.notes {
+background-color: #511845;
+color: white;
+}
